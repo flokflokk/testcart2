@@ -1,0 +1,21 @@
+.pageName{
+    text-align: left;
+    font-size: 35px;
+    font-weight: bold;
+    padding-left: 5%
+}
+.colorBar{
+        background-color: tomato;
+        font-weight: bold;
+}
+.center{
+    text-align: center;
+}
+th{
+    text-align: center;
+}
+.imgicon{
+    width: 20px;
+    height: 20px;
+}
+
